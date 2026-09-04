@@ -1,0 +1,9 @@
+{
+  "name": "UPI QR - Shahul Hameed",
+  "short_name": "UPI QR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef2f6",
+  "theme_color": "#eef2f6",
+  "icons": []
+}
